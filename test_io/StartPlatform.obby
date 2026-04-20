@@ -1,0 +1,10 @@
+project "MyObby" {
+folder "Stage1" {
+part "StartPlatform" {
+size: 20 1 20
+color: 0.4 0.8 0.4
+material: SmoothPlastic
+anchored: true
+}
+}
+}   
