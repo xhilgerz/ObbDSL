@@ -60,4 +60,4 @@ Roblox Lua code.
 
 The test_io/ directory contains example .obby input file alongside the expected .lua output and project structure for reference.
 
-I have only gotten around to creating an example for the Part. The killbrick and other objects are still in construction. 
+I have only gotten around to creating an example for the Part. The killbrick and other objects aren't listed 
