@@ -36,7 +36,7 @@ Step 2 — Compile all Java source files:
     javac -cp .:$ANTLR_JAR *.java
 
 Step 3 — Run the driver with an .obby input file:
-    java -cp .:$ANTLR_JAR Driver < test.obby
+    java -cp .:$ANTLR_JAR Driver < Phase_1_test/test.obby
 
     Or use any other .obby file:
     java -cp .:$ANTLR_JAR Driver < test_io/StartPlatform.obby
