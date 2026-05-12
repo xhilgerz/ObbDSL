@@ -37,7 +37,7 @@ Step 2 — Compile all Java source files:
     javac -cp .:$ANTLR_JAR *.java
 
 Step 3 — Run the compiler with a .obby input file:
-    java -cp .:$ANTLR_JAR Driver < Test/test.obby
+    java -cp .:$ANTLR_JAR Driver < test2.obby
 
 The compiler reads from stdin and writes the generated Lua files to disk.
 A directory named after the project is created in the current working directory.
